@@ -50,7 +50,7 @@ My core stack is **HTML5, CSS3, JavaScript, and Bootstrap**, alongside **Git and
 ### Personal Portfolio
 
 <a href="https://fareedulhaq.vercel.app/">
-  <img src="Screenshot%202026-09-06%20141129.jpg" width="800" alt="Personal Portfolio Preview"/>
+  <img src="portfolio.png" width="800" alt="Personal Portfolio Preview"/>
 </a>
 
 A custom-built, fully responsive personal portfolio designed from the ground up to demonstrate my expertise in layout architecture, modern UI practices, and front-end optimization.
