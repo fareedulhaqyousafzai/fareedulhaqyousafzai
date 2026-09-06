@@ -55,7 +55,7 @@
   </a>
   <br><br>
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="Screenshot%202026-09-06%20141129.jpg" width="700" style="border-radius: 12px; border: 2px solid #1095d5; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" alt="Portfolio Preview"/>
+    <img src="portfolio.png" width="700" style="border-radius: 12px; border: 2px solid #1095d5; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" alt="Portfolio Preview"/>
   </a>
 </div>
 
