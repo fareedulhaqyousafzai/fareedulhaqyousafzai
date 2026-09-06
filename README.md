@@ -1,136 +1,104 @@
-<h1 align="center">Hi 👋, I'm Fareed Ul Haq</h1>
-<h3 align="center">Front-End Developer from Karachi, Pakistan</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/fareedulhaqyousafzai.png?size=200" width="150" style="border-radius:50%;"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=Fareed%20Ul%20Haq&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=✨%20Front-End%20Developer%20%20•%20%20Responsive%20Web%20Design%20✨&descAlignY=65&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1095D5&center=true&vCenter=true&width=600&lines=Front-End+Developer;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Bootstrap;Building+Pixel-Perfect+Websites;Open+for+Freelance+Work" alt="Typing"/>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://fareedulhaq.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-1095D5?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01e547aaed402a1582">
-    <img src="https://img.shields.io/badge/Hire_Me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/fareedulhaqyousafzai">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1095d5&center=true&vCenter=true&width=650&lines=Building+clean+and+responsive+UIs+%F0%9F%9A%80;Crafting+pixel-perfect+web+experiences+%E2%9C%A8;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Bootstrap+%E2%9A%A1;Open+for+Freelance+Work+on+Upwork+%F0%9F%92%BC)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fareedulhaqyousafzai&label=Profile%20Views&color=1095D5&style=flat"/>
-  <img src="https://img.shields.io/github/followers/fareedulhaqyousafzai?label=Followers&style=social"/>
-</p>
+</div>
 
----
+<br/>
 
-### 👤 About Me
+## 👨‍💻 About Me
 
-> Building clean, modern, and responsive web experiences from scratch.
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:16px; margin-left:20px"/>
 
-- 🔭 Working on **freelance projects on Upwork**
-- 🌱 Learning **Advanced JavaScript & React**
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
-- 📫 Reach me: **fareedulhaqyousafzai@gmail.com**
-- ⚡ Fun fact: **I debug with console.log()**
+&nbsp;&nbsp;Hi! I'm **Fareed**, a front-end developer focused on building  
+&nbsp;&nbsp;clean, modern, and **responsive web experiences**.
+
+&nbsp;&nbsp;I love turning designs into fast, mobile-first websites  
+&nbsp;&nbsp;that are not just functional, but visually stunning.
+
+<br/>
+
+&nbsp;&nbsp;🔭 &nbsp;Working on **high-quality freelance projects on Upwork**  
+&nbsp;&nbsp;⚡ &nbsp;Design Philosophy: **Minimalist, distraction-free UI**  
+&nbsp;&nbsp;🌱 &nbsp;Currently expanding my skills in **React.js & ES6+**  
+&nbsp;&nbsp;🎓 &nbsp;Education: **DAE (Computer Information Tech) & Adv. Diploma (SE)**  
+&nbsp;&nbsp;💬 &nbsp;Talk to me about **HTML, CSS, JavaScript, and Bootstrap**  
+
+<br/>
 
 ---
 
-### 🎓 Education
+<br/>
 
-- **Advanced Diploma in Software Engineering**  
-  Aptech Computer Education • 2019 – 2024
+<div align="center">
 
-- **DAE — Computer Information Technology**  
-  Govt. College of Technology, Karachi • 2019 – 2023
+## 🌐 Find Me Here
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://fareedulhaq.vercel.app/)&nbsp;
+[![Upwork](https://img.shields.io/badge/Upwork-%2314A800.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e547aaed402a1582)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fareedulhaqyousafzai/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fareedulhaqyousafzai@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fareedulhaqyousafzai)&nbsp;
 
-### 🛠️ Skills
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vercel&theme=dark"/>
-</p>
-
----
-
-### 🚀 Featured Project
-
-#### 🌐 Personal Portfolio Website
-
-<p align="center">
-  <a href="https://fareedulhaq.vercel.app/">
-    <img src="https://via.placeholder.com/800x400/0A192F/1095D5?text=Portfolio+Preview" width="80%"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-</p>
-
-<p align="center">
-  <a href="https://fareedulhaq.vercel.app/">
-    <img src="https://img.shields.io/badge/🔗_Visit_Live_Site-1095D5?style=for-the-badge"/>
-  </a>
-</p>
+<br/>
 
 ---
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fareedulhaqyousafzai&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fareedulhaqyousafzai&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fareedulhaqyousafzai&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
+## 💻 Tech Stack
 
----
+<br/>
 
-### 🐍 Contribution Snake
+**🌸 Languages & Markup**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fareedulhaqyousafzai/fareedulhaqyousafzai/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+<br/>
 
-### 📫 Connect With Me
+**🚀 Frameworks & Libraries**
 
-<p align="center">
-  <a href="mailto:fareedulhaqyousafzai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://fareedulhaq.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01e547aaed402a1582">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/fareedulhaqyousafzai">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/fareedulhaqyousafzai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-38bdf8?style=for-the-badge&logo=react&logoColor=white)
+
+<br/>
+
+**🛠️ Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-  <i>⭐️ Thanks for visiting! Let's build something great together.</i>
-</p>
+<br/>
 
-<p align="center">
-  <sub>Made with ❤️ by <b>Fareed Ul Haq</b></sub>
-</p>
+<div align="center">
+
+## 📊 GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com
