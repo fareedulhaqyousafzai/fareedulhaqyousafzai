@@ -56,6 +56,10 @@ A custom-built, fully responsive personal portfolio designed to showcase my fron
 * **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
 * **Live Link:** [Visit Website](https://fareedulhaq.vercel.app/)
 
+### 2. Responsive Agency Website
+A modern agency website designed with a clean layout and responsive structure for different screen sizes.
+* **Tech Stack:** HTML5, CSS3, Bootstrap
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
