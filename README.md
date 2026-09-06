@@ -96,9 +96,6 @@
 
 <div align="center">
 
-**💻 Front-End Development | 🎨 Responsive UI | 🚀 Clean & Modern Web Experiences**
-<br><br>
-
 <a href="https://github.com/fareedulhaqyousafzai?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/⭐_Check_Out_My_Repositories-1095d5?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
