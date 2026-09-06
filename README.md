@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" alt="Laptop"/> About Me
+## 💻 About Me
 
 - 💻 **Role:** Detail-oriented Front-End Developer
 - 🎨 **Focus:** Modern UI, Mobile-First Design & Responsive Web Apps
@@ -23,7 +23,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Tools/Hammer%20and%20Wrench.png" width="30" alt="Tools"/> Skills
+## 🛠️ Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,cs,dotnet" height="48" alt="Tech Stack" style="pointer-events: none;" />
@@ -34,7 +34,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" alt="Rocket"/> Featured Project
+## 🚀 Featured Project
 
 <table border="0" width="100%">
   <tr>
@@ -58,7 +58,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" alt="Stats"/> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fareedulhaqyousafzai&theme=tokyonight&hide_border=true&ring=1095d5&fire=1095d5" alt="GitHub Streak" style="pointer-events: none;" />
@@ -68,7 +68,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" alt="Handshake"/> Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="mailto:fareedulhaqyousafzai@gmail.com" target="_blank">
@@ -92,7 +92,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smiles/Sparkling%20Heart.png" width="30" alt="Heart"/> Let's Build Something Great Together!
+## 💖 Let's Build Something Great Together!
 
 <div align="center">
 
