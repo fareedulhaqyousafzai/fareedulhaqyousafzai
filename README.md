@@ -1,3 +1,4 @@
+<!-- ===================== NAVIGATION ===================== -->
 <div align="center">
 
 [![About](https://img.shields.io/badge/👤_About_Me-0A192F?style=for-the-badge&logoColor=white)](#-about-me)
@@ -9,6 +10,7 @@
 
 </div>
 
+<!-- ===================== HERO HEADER ===================== -->
 <div align="center">
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1095d5,100:0A192F&height=270&section=header&text=Fareed%20Ul%20Haq&fontSize=54&fontColor=ffffff&fontAlignY=30&animation=fadeIn&desc=Front-End%20Developer%20%E2%80%A2%20Clean%2C%20Modern%2C%20Responsive%20Web%20Experiences&descSize=17&descColor=e8f1ff&descAlignY=50" width="100%" alt="Header Banner"/>
@@ -119,7 +121,7 @@ Clean code, fast load times, real responsiveness
 
 <div align="center">
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Ffareedulhaq.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" width="90%" alt="Live preview of Personal Portfolio Website" style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px;"/>
+    <img src="Screenshot%202026-09-06%20141129.jpg" width="90%" alt="Live preview of Personal Portfolio Website" style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px;"/>
   </a>
 </div>
 
@@ -180,4 +182,23 @@ Have a project in mind or just want to say hi? Let's talk. 👇
 
 <br>
 
-<a href="mailto:fareedulhaqyousafzai@gmail
+<a href="mailto:fareedulhaqyousafzai@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://fareedulhaq.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.upwork.com/freelancers/~01e547aaed402a1582" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+</a>
+<a href="https://www.linkedin.com/in/fareedulhaqyousafzai/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+### 💬 Thanks for visiting! Let's build something great together. 🚀
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1095d5,100:0A192F&height=120&section=footer" width="100%"/>
