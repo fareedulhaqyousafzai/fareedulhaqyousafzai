@@ -16,7 +16,7 @@ Front-End Developer • Responsive Web Design • Problem Solver
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:12px; margin-left: 20px;"/>
 
 - 💻 Detail-oriented **Front-End Developer**
 - 🌱 Currently expanding my skills in **C# & .NET Core**
