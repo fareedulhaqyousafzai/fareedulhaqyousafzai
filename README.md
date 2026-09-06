@@ -9,10 +9,10 @@
 
 <br>
 
-<!-- Custom Clean Banner with #1095d5 Color -->
+<!-- Custom Clean Banner with Proper Spacing -->
 <div align="center">
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1095d5,100:0A192F&height=220&section=header&text=Fareed%20Ul%20Haq&fontSize=42&fontColor=ffffff&desc=Front-End%20Developer&descSize=24&descColor=1095d5" width="100%" alt="Hero Section" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1095d5,100:0A192F&height=250&section=header&text=Fareed%20Ul%20Haq&fontSize=50&fontColor=ffffff&textAlignY=40&desc=Front-End%20Developer&descSize=24&descColor=ffffff&descAlignY=65" width="100%" alt="Hero Section" />
   </a>
 </div>
 
@@ -61,7 +61,6 @@ A custom-built, fully responsive personal portfolio designed to showcase my fron
 </div>
 
 ## 📊 GitHub Stats
-<!-- Agar stats load na hon toh 5 minute wait karein, public server kabhi kabhi busy hota hai -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top Languages" />
