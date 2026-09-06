@@ -1,14 +1,10 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" height="35" /> Hi there, I'm Fareed Ul Haq!
-</h1>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1095d5&height=180&section=header&text=Hi%20there,%20I'm%20Fareed%20Ul%20Haq!&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner"/>
 
-<p align="center">
-  <b>Front-End Developer focused on building clean, modern, responsive, and user-friendly web experiences.</b>
-</p>
+  <a href="https://fareedulhaq.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=1095D5&center=true&vCenter=true&width=850&lines=Front-End+Developer;Building+Clean%2C+Modern+%26+Responsive+Web+Experiences;Available+for+Freelance+Work+on+Upwork" alt="Typing SVG"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
