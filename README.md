@@ -29,9 +29,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,cs,dotnet" height="48" alt="Tech Stack" />
   </a>
-  <a href="https://github.com/fareedulhaqyousafzai" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="46" alt="SQL Server" style="margin-left: 8px; vertical-align: middle;" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="46" alt="SQL Server" style="margin-left: 8px; vertical-align: middle; pointer-events: none;" />
 </div>
 
 <div align="center">
