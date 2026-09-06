@@ -72,23 +72,23 @@
 
 <div align="center">
   <a href="mailto:fareedulhaqyousafzai@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel/ffffff" height="40" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&label=" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.upwork.com/freelancers/~01e547aaed402a1582" target="_blank">
-    <img src="https://cdn.simpleicons.org/upwork/14A800" height="40" alt="Upwork" />
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white&label=" alt="Upwork" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fareedulhaqyousafzai/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/fareedulhaqyousafzai" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=" alt="GitHub" />
   </a>
 </div>
 
