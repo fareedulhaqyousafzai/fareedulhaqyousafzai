@@ -19,7 +19,7 @@
 - 💻 **Role:** Detail-oriented Front-End Developer
 - 🎨 **Focus:** Modern UI, Mobile-First Design & Responsive Web Apps
 - 🚀 **Tech Stack:** HTML5, CSS3, JavaScript, & Bootstrap
-- 🌱 **Currently Learning:** Expanding my skills with C# & .NET Core
+- 🌱 **Currently Learning:** Expanding my skills with C# & .NET Core, & SQL Server
 - 💼 **Freelance:** Actively delivering premium projects on Upwork
 - ⚡ **Design Preference:** Clean, Minimalist & Distraction-Free Interfaces
 
@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,cs,dotnet" height="48" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,cs,dotnet,mysql" height="48" alt="Tech Stack" />
   </a>
 </div>
 
