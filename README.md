@@ -121,7 +121,7 @@ Clean code, fast load times, real responsiveness
 
 <div align="center">
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="Screenshot%202026-09-06%20141129.jpg" width="90%" alt="Live preview of Personal Portfolio Website" style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px;"/>
+    <img src="portfolio.jpg" width="90%" alt="Live preview of Personal Portfolio Website" style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px;"/>
   </a>
 </div>
 
