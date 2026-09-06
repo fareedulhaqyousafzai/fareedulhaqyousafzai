@@ -47,7 +47,7 @@ A responsive personal portfolio website built to showcase my front-end developme
 * 🔗 **Live Demo:** [fareedulhaq.vercel.app](https://fareedulhaq.vercel.app/)
 
 <a href="https://fareedulhaq.vercel.app/" target="_blank">
-  <img src="Screenshot%202026-09-06%20141129.jpg" width="600" style="border-radius: 8px; margin-top: 10px; border: 1px solid #ddd;" alt="Portfolio Preview"/>
+  <img src="portfolio.png" width="600" style="border-radius: 8px; margin-top: 10px; border: 1px solid #ddd;" alt="Portfolio Preview"/>
 </a>
 
 <div align="center">
