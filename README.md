@@ -1,35 +1,27 @@
-<div align="center">
-  <a href="https://fareedulhaq.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1095D5&center=true&vCenter=true&width=800&lines=const+developer+=+%22Fareed+Ul+Haq%22;;developer.skills+=+[%22HTML%22,+%22CSS%22,+%22JS%22];developer.status+=+%22Available+for+Freelance+on+Upwork%22;" alt="Typing Code" />
-  </a>
-</div>
+# Hi there! 👋 I'm Fareed Ul Haq.
 
-<p align="center">
-  <a href="https://fareedulhaq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1095D5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A192F"/></a>
-  <a href="https://www.upwork.com/freelancers/~01e547aaed402a1582"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0A192F"/></a>
-  <a href="https://www.linkedin.com/in/fareedulhaqyousafzai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F"/></a>
-  <a href="mailto:fareedulhaqyousafzai@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F"/></a>
-</p>
+**Front-End Web Developer | Problem Solver | Clean Code Advocate**
 
-<br>
+I am a passionate Front-End Developer dedicated to crafting clean, highly functional, and responsive web experiences. I strongly believe in writing maintainable code and building unique solutions from the ground up, rather than relying on generic templates. 
 
-<table width="100%" style="border: none;">
-<tr>
-<td width="50%" valign="top">
+* 🔭 **Currently working on:** Designing and developing my custom personal portfolio website.
+* 🌱 **Constantly leveling up in:** JavaScript (ES6+), React.js, HTML5, and CSS3.
+* 💡 **My philosophy:** I focus on building authentic projects that solve real problems. 
+* ⚡ **Design preference:** Minimalist, mobile-first, and distraction-free UI. I let the code and functionality speak for themselves.
+* 📫 **Let's connect:** [fareedulhaqyousafzai@gmail.com](mailto:fareedulhaqyousafzai@gmail.com)
 
-<h3 align="center">👨‍💻 System.Profile</h3>
+### 🌐 Connect with Me
+<!-- Niche diye gaye links ko apne asli URLs se replace karein -->
+[Live Portfolio](https://fareedulhaq-portfolio.vercel.app/) | [Upwork Profile](YOUR_UPWORK_PROFILE_LINK) | [LinkedIn](YOUR_LINKEDIN_PROFILE_LINK)
 
-```javascript
-const fareed = {
-  role: "Front-End Developer",
-  location: "Karachi, Pakistan",
-  education: [
-    "DAE in CIT",
-    "Adv. Diploma in Software Eng."
-  ],
-  currentlyLearning: ["C#", ".NET Core"],
-  focus: "Responsive UI & Clean Code",
-  hireMe: function() {
-    return "Ready for Upwork projects!";
-  }
-};
+### 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### 📊 GitHub Stats
+<!-- 'yourgithubusername' ki jagah apna asli GitHub username likhein -->
+![Fareed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&text_color=ffffff)
