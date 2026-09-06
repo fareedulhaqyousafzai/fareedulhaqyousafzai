@@ -1,93 +1,55 @@
-<h1 align="center">👋 Hi, I'm [Your Name]</h1>
-<h3 align="center">[Your Title/Profession, e.g., Full Stack Developer]</h3>
+<h1 align="center">Hi there, I'm Fareed Ul Haq 👋</h1>
+<h3 align="center">Front-End Developer | Crafting Clean & Responsive Web Experiences</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Building+scalable+web+apps;Open+source+enthusiast" alt="Typing SVG" />
-</p>
+<div align="center">
+  <a href="mailto:fareedulhaqyousafzai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://fareedulhaq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1095D5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.upwork.com/freelancers/~01e547aaed402a1582"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://www.linkedin.com/in/fareedulhaqyousafzai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
 
----
+<br>
 
-## 🚀 About Me
+I build clean, modern, and highly responsive web applications from scratch. My focus is on writing maintainable code and delivering pixel-perfect, mobile-first user interfaces. Currently, I am actively taking on high-quality freelance projects on Upwork.
 
-I'm a passionate [Your Profession] with [X] years of experience in building high-quality digital solutions. I love crafting clean, efficient, and user-centric applications. Currently, I'm exploring [Your Current Learning Focus].
-
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Skill/Technology]**
-- 👯 I’m looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Expertise Area]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+* 📍 **Location:** Karachi, Pakistan
+* 🎓 **Education:** DAE (Computer Information Tech) & Adv. Diploma (Software Engineering)
+* 💼 **Focus:** Custom Front-End Solutions, Bug Fixing, Design-to-HTML
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Technologies & Tools
 
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> </a>
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </a>
-  <!-- Backend & Databases -->
-  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </a>
-  <!-- DevOps & Tools -->
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
----
-
-## 🏆 Trophies & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,vercel" alt="Skills" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### 🚀 Featured Work
 
-<p align="center">
-  <i>“Your favorite quote or motto here.”</i>
-</p>
+**[Personal Portfolio Website](https://fareedulhaq.vercel.app/)**  
+A custom-built, fully responsive personal portfolio designed to showcase my front-end expertise without relying on generic page builders or templates.
+* **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
+* **Live Demo:** [fareedulhaq.vercel.app](https://fareedulhaq.vercel.app/)
+
+<a href="https://fareedulhaq.vercel.app/" target="_blank">
+  <img src="Screenshot%202026-09-06%20141129.jpg" width="700" style="border-radius: 8px; margin-top: 10px;" alt="Portfolio Preview"/>
+</a>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&theme=tokyonight&title_color=1095d5&count_private=true" height="165" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight&title_color=1095d5" height="165" alt="Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fareedulhaqyousafzai&theme=tokyo-night&hide_border=true&area=true&color=1095d5&line=1095d5" width="100%" alt="Activity Graph"/>
+</div>
