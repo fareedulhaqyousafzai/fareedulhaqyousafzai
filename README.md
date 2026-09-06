@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1095d5&height=180&section=header&text=Fareed%20Ul%20Haq&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner"/>
 
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=1095D5&center=true&vCenter=true&width=850&lines=Front-End+Developer;Building+Clean%2C+Modern+%26+Responsive+Web+Experiences;Available+for+Freelance+Work+on+Upwork" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=1095D5&center=true&vCenter=true&width=900&lines=Front-End+Developer;Building+Clean%2C+Modern+%26+Responsive+Web+Experiences;Available+for+Freelance+Work+on+Upwork" alt="Typing SVG"/>
   </a>
 </div>
 
