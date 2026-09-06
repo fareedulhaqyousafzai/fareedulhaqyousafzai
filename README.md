@@ -102,7 +102,7 @@ A modern agency website designed with a clean layout and responsive structure fo
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" height="165" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=fareedulhaqyousafzai&theme=tokyonight&hide_border=false" height="165" alt="GitHub Streak" />
 
 </div>
 
@@ -127,20 +127,6 @@ A modern agency website designed with a clean layout and responsive structure fo
 </a>
 
 </div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
-</div>
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo" />
-
-</div>
-
-I'm currently learning React.js and continuously improving my JavaScript and front-end development skills.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
