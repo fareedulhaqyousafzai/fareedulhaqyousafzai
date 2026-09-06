@@ -69,8 +69,6 @@ A modern agency website designed with a clean layout and responsive structure fo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img align="top" src="https://github-readme-stats.shion.dev/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&theme=tokyonight&title_color=1095d5" alt="GitHub Stats" />
-  &nbsp;&nbsp;
   <img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight&title_color=1095d5" alt="Top Languages" />
 </div>
 <br>
