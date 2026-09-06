@@ -61,11 +61,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight&title_color=1095d5" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight&title_color=1095d5" alt="Top Languages" style="pointer-events: none;" />
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fareedulhaqyousafzai&theme=tokyonight&hide_border=true&ring=1095d5&fire=1095d5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fareedulhaqyousafzai&theme=tokyonight&hide_border=true&ring=1095d5&fire=1095d5" alt="GitHub Streak" style="pointer-events: none;" />
 </div>
 
 <div align="center">
