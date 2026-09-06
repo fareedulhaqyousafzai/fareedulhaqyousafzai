@@ -1,104 +1,91 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=Fareed%20Ul%20Haq&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=✨%20Front-End%20Developer%20%20•%20%20Responsive%20Web%20Design%20✨&descAlignY=65&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1095d5&center=true&vCenter=true&width=650&lines=Building+clean+and+responsive+UIs+%F0%9F%9A%80;Crafting+pixel-perfect+web+experiences+%E2%9C%A8;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Bootstrap+%E2%9A%A1;Open+for+Freelance+Work+on+Upwork+%F0%9F%92%BC)](https://git.io/typing-svg)
-
+  <a href="https://fareedulhaq.vercel.app/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1095d5,100:0A192F&height=250&section=header&text=Fareed%20Ul%20Haq&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Clean%20%26%20Responsive%20Web%20Experiences&descSize=18&descColor=1095d5&descAlignY=60" width="100%" alt="Header Banner"/>
+  </a>
+  <br>
+  <a href="https://fareedulhaq.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=1095D5&center=true&vCenter=true&width=650&lines=Front-End+Web+Developer;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Bootstrap;Building+Pixel-Perfect%2C+Mobile-First+UIs;Open+for+Freelance+Work+on+Upwork" alt="Typing SVG"/>
+  </a>
 </div>
 
-<br/>
+<div align="center">
+  <a href="https://fareedulhaq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.upwork.com/freelancers/~01e547aaed402a1582"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://www.linkedin.com/in/fareedulhaqyousafzai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fareedulhaqyousafzai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ## 👨‍💻 About Me
+I am a dedicated Front-End Developer specializing in building scalable, pixel-perfect, and mobile-first web applications. Instead of relying on generic templates, I craft unique solutions from the ground up.
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:16px; margin-left:20px"/>
+* ⚡ **Design Focus:** Minimalist & distraction-free UI.
+* 🔭 **Currently:** Delivering premium freelance projects on Upwork.
+* 🎓 **Education:** DAE in Computer Information Technology.
 
-&nbsp;&nbsp;Hi! I'm **Fareed**, a front-end developer focused on building  
-&nbsp;&nbsp;clean, modern, and **responsive web experiences**.
-
-&nbsp;&nbsp;I love turning designs into fast, mobile-first websites  
-&nbsp;&nbsp;that are not just functional, but visually stunning.
-
-<br/>
-
-&nbsp;&nbsp;🔭 &nbsp;Working on **high-quality freelance projects on Upwork**  
-&nbsp;&nbsp;⚡ &nbsp;Design Philosophy: **Minimalist, distraction-free UI**  
-&nbsp;&nbsp;🌱 &nbsp;Currently expanding my skills in **React.js & ES6+**  
-&nbsp;&nbsp;🎓 &nbsp;Education: **DAE (Computer Information Tech) & Adv. Diploma (SE)**  
-&nbsp;&nbsp;💬 &nbsp;Talk to me about **HTML, CSS, JavaScript, and Bootstrap**  
-
-<br/>
-
----
-
-<br/>
+</td>
+<td width="45%" valign="top">
 
 <div align="center">
 
-## 🌐 Find Me Here
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://fareedulhaq.vercel.app/)&nbsp;
-[![Upwork](https://img.shields.io/badge/Upwork-%2314A800.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e547aaed402a1582)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fareedulhaqyousafzai/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fareedulhaqyousafzai@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fareedulhaqyousafzai)&nbsp;
+## 🛠️ Tech Stack
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=4" alt="Frontend" style="margin-bottom: 8px;" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=4" alt="Tools" />
+</a>
 
 </div>
 
-<br/>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-<br/>
+## 🚀 Featured Project
+
+<table align="center" width="100%">
+<tr>
+<td width="100%" align="center">
+
+### [Personal Portfolio Website](https://fareedulhaq.vercel.app/)
+A custom-built, fully responsive personal portfolio designed from scratch to showcase my front-end expertise.
+
+<br>
+
+<a href="https://fareedulhaq.vercel.app/" target="_blank">
+  <img src="Screenshot%202026-09-06%20141129.jpg" width="85%" alt="Portfolio Preview" style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+
+**[🔗 View Live Project](https://fareedulhaq.vercel.app/)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-## 💻 Tech Stack
-
-<br/>
-
-**🌸 Languages & Markup**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br/>
-
-**🚀 Frameworks & Libraries**
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-38bdf8?style=for-the-badge&logo=react&logoColor=white)
-
-<br/>
-
-**🛠️ Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&theme=tokyonight&title_color=1095d5&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight&title_color=1095d5" height="165" alt="Top Languages"/>
 </div>
 
-<br/>
-
----
-
-<br/>
-
 <div align="center">
-
-## 📊 GitHub Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1095d5,100:0A192F&height=120&section=footer" width="100%" alt="Footer"/>
+</div>
