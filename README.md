@@ -72,19 +72,19 @@
 
 <div align="center">
   <a href="mailto:fareedulhaqyousafzai@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&message=" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white&message=" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0A192F?style=for-the-badge" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.upwork.com/freelancers/~01e547aaed402a1582" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white&message=" alt="Upwork" />
+    <img src="https://img.shields.io/badge/UPWORK-14A800?style=for-the-badge" alt="Upwork" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fareedulhaqyousafzai/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&message=" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
 </div>
 
