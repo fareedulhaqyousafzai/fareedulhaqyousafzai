@@ -26,9 +26,7 @@
 ## 🛠️ Skills
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,cs,dotnet" height="48" alt="Tech Stack" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,cs,dotnet" height="48" alt="Tech Stack" style="pointer-events: none;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="46" alt="SQL Server" style="margin-left: 8px; vertical-align: middle; pointer-events: none;" />
 </div>
 
@@ -43,7 +41,7 @@
     <td width="45%" valign="center">
       <h3>🌐 Personal Portfolio</h3>
       <p>A custom-built, fully responsive portfolio website designed to showcase my front-end layout architecture and UI skills.</p>
-      <b>Technologies Used:</b> <img src="https://skillicons.dev/icons?i=html,css,js" height="20" align="middle" alt="Tech Stack"/><br><br>
+      <b>Technologies Used:</b> <img src="https://skillicons.dev/icons?i=html,css,js" height="20" align="middle" alt="Tech Stack" style="pointer-events: none;"/><br><br>
       <a href="https://fareedulhaq.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/🔗_Live_Demo-0A192F?style=for-the-badge&labelColor=1095D5" alt="Live Demo" />
       </a>
