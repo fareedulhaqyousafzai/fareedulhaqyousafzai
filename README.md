@@ -8,6 +8,13 @@ Front-End Developer • Responsive Web Design • Problem Solver
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=1095D5&center=true&vCenter=true&width=900&lines=Front-End+Web+Developer;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Bootstrap;Building+Modern+Web+Experiences;Available+for+Freelance+on+Upwork" />
 </p>
 
+<p align="center">
+<a href="https://fareedulhaq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~01e547aaed402a1582"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fareedulhaqyousafzai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:fareedulhaqyousafzai@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
 ---
 
 <p align="center">
@@ -34,30 +41,6 @@ Front-End Developer • Responsive Web Design • Problem Solver
 </table>
 
 <br>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/fareedulhaqyousafzai/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.upwork.com/freelancers/~01e547aaed402a1582">
-<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-</a>
-
-<a href="mailto:fareedulhaqyousafzai@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://fareedulhaq.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
