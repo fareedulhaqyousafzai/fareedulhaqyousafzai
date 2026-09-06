@@ -1,4 +1,3 @@
-<!-- ===================== NAVIGATION ===================== -->
 <div align="center">
 
 [![About](https://img.shields.io/badge/👤_About_Me-0A192F?style=for-the-badge&logoColor=white)](#-about-me)
@@ -10,14 +9,13 @@
 
 </div>
 
-<!-- ===================== HERO HEADER ===================== -->
 <div align="center">
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1095d5,100:0A192F&height=270&section=header&text=Fareed%20Ul%20Haq&fontSize=54&fontColor=ffffff&fontAlignY=30&animation=fadeIn&desc=Front-End%20Developer%20%E2%80%A2%20Clean%2C%20Modern%2C%20Responsive%20Web%20Experiences&descSize=17&descColor=e8f1ff&descAlignY=50" width="100%" alt="Header Banner"/>
   </a>
 
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?<img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Frameworks"/>font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1095D5&center=true&vCenter=true&width=650&lines=Front-End+Developer;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Bootstrap;Building+Pixel-Perfect%2C+Mobile-First+UIs;Open+for+Freelance+Work+on+Upwork" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1095D5&center=true&vCenter=true&width=650&lines=Front-End+Developer;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Bootstrap;Building+Pixel-Perfect%2C+Mobile-First+UIs;Open+for+Freelance+Work+on+Upwork" alt="Typing SVG"/>
   </a>
 
   <br/><br/>
@@ -41,7 +39,7 @@
 **Hello, I'm Fareed Ul Haq! 👋**
 I focus on turning designs into fast, pixel-perfect, mobile-first websites using HTML, CSS, JavaScript, and Bootstrap — built for real users, not just for looks.
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -68,7 +66,7 @@ Clean code, fast load times, real responsiveness
 
 ## 🎓 Education
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td align="center" width="60">🎓</td>
 <td>
@@ -94,13 +92,12 @@ Clean code, fast load times, real responsiveness
 **Languages & Markup**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js" height="60" alt="Languages"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Frameworks"/>
 
 <br/><br/>
 
-**Frameworks**
+**Frameworks & Libraries**
 <br/>
-
+<img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Frameworks"/>
 
 <br/><br/>
 
@@ -114,27 +111,31 @@ Clean code, fast load times, real responsiveness
 
 ## 🚀 Featured Projects
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="100%">
 
 ### 🌐 [Personal Portfolio Website](https://fareedulhaq.vercel.app/)
 
 <div align="center">
-<a href="https://fareedulhaq.vercel.app/" target="_blank">
-<img src="https://api.microlink.io/?url=https%3A%2F%2Ffareedulhaq.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" width="90%" alt="Live preview of Personal Portfolio Website" style="border-radius:8px;"/>
-</a>
+  <a href="https://fareedulhaq.vercel.app/" target="_blank">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Ffareedulhaq.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark" width="90%" alt="Live preview of Personal Portfolio Website" style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 15px;"/>
+  </a>
 </div>
 
 A custom-built, fully responsive personal portfolio designed from scratch to showcase front-end skills — no page builders, no templates.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deployed_on-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-
-**[🔗 Visit Live Site →](https://fareedulhaq.vercel.app/)**
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deployed_on-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</div>
+<br>
+<div align="center">
+  <b><a href="https://fareedulhaq.vercel.app/">🔗 Visit Live Site →</a></b>
+</div>
 
 </td>
 </tr>
@@ -169,8 +170,6 @@ A custom-built, fully responsive personal portfolio designed from scratch to sho
   <img src="https://raw.githubusercontent.com/fareedulhaqyousafzai/fareedulhaqyousafzai/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 </div>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🤝 Contact Me
@@ -179,23 +178,6 @@ A custom-built, fully responsive personal portfolio designed from scratch to sho
 
 Have a project in mind or just want to say hi? Let's talk. 👇
 
-<a href="mailto:fareedulhaqyousafzai@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://fareedulhaq.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.upwork.com/freelancers/~01e547aaed402a1582" target="_blank">
-  <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-</a>
-<a href="https://www.linkedin.com/in/fareedulhaqyousafzai/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<br>
 
-<br/><br/>
-
-### 💬 Thanks for visiting! Let's build something great together. 🚀
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1095d5,100:0A192F&height=120&section=footer" width="100%"/>
+<a href="mailto:fareedulhaqyousafzai@gmail
