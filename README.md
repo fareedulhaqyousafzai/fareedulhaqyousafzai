@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,cs,dotnet,mysql" height="48" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,cs,dotnet,microsoftsqlserver" height="48" alt="Tech Stack" />
   </a>
 </div>
 
