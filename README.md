@@ -11,7 +11,7 @@
 
 <!-- Fixed Dark Blue & Cyan Hero Banner -->
 <div align="center">
-  <a href="https://fareedulhaq.vercel.app/" target="_blank">
+  <a href="https://fareedulhaq-portfolio.vercel.app/" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E3A8A&height=250&section=header&text=RESPONSIVE%20WEB%20EXPERIENCES!&fontSize=40&fontColor=ffffff&desc=Fareed%20Ul%20Haq%20|%20Front-End%20Developer&descSize=22&descColor=00bfff" width="100%" alt="Hero Section" />
   </a>
 </div>
@@ -51,16 +51,17 @@ I build clean, modern, and responsive web experiences. Instead of generic templa
 
 ## 🚀 Featured Projects
 
-### 1. [Personal Portfolio Website](https://fareedulhaq.vercel.app/)
+### 1. [Personal Portfolio Website](https://fareedulhaq-portfolio.vercel.app/)
 A custom-built, fully responsive personal portfolio designed to showcase my front-end skills.
 * **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
-* **Live Link:** [Visit Website](https://fareedulhaq.vercel.app/)
+* **Live Link:** [Visit Website](https://fareedulhaq-portfolio.vercel.app/)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
 
 ## 📊 GitHub Stats
+<!-- Agar stats load na hon toh 5 minute wait karein, public server kabhi kabhi busy hota hai -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top Languages" />
@@ -74,19 +75,19 @@ A custom-built, fully responsive personal portfolio designed to showcase my fron
 <div align="center">
 
 <a href="mailto:fareedulhaqyousafzai@gmail.com" target="_blank">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://fareedulhaq.vercel.app/" target="_blank">
-<img src="https://cdn.simpleicons.org/vercel/ffffff" height="45" alt="Portfolio" />
+&nbsp;&nbsp;
+<a href="https://fareedulhaq-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.upwork.com/freelancers/~01e547aaed402a1582" target="_blank">
-<img src="https://cdn.simpleicons.org/upwork/14A800" height="45" alt="Upwork" />
+  <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/fareedulhaqyousafzai/" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="45" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <br><br>
