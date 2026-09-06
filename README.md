@@ -41,14 +41,23 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 Personal Portfolio Website
-A responsive personal portfolio website built to showcase my front-end development skills and projects.
-* **Technologies:** <img src="https://skillicons.dev/icons?i=html,css,js" height="22" align="middle" />
-* 🔗 **Live Demo:** [fareedulhaq.vercel.app](https://fareedulhaq.vercel.app/)
+<h3 align="center">🌐 Personal Portfolio Website</h3>
 
-<a href="https://fareedulhaq.vercel.app/" target="_blank">
-  <img src="portfolio.png" width="600" style="border-radius: 8px; margin-top: 10px; border: 1px solid #ddd;" alt="Portfolio Preview"/>
-</a>
+<p align="center">
+  A responsive personal portfolio website built to showcase my front-end development skills and projects.
+</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="35" alt="Tech Stack"/>
+  <br><br>
+  <a href="https://fareedulhaq.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-0A192F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1095D5" alt="Live Demo" />
+  </a>
+  <br><br>
+  <a href="https://fareedulhaq.vercel.app/" target="_blank">
+    <img src="Screenshot%202026-09-06%20141129.jpg" width="700" style="border-radius: 12px; border: 2px solid #1095d5; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" alt="Portfolio Preview"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
