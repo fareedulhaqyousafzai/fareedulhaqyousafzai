@@ -68,7 +68,7 @@ A responsive personal portfolio website built to showcase my front-end developme
 
 **Technologies:** HTML5, CSS3, JavaScript, Bootstrap
 
-🔗 [Live Website](https://fareedulhaq-portfolio.vercel.app/)
+🔗 [Live Website](https://fareedulhaq.vercel.app/)
 
 ---
 
@@ -94,11 +94,11 @@ A modern agency website designed with a clean layout and responsive structure fo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub Stats" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top Languages" />
 
 <br />
 
