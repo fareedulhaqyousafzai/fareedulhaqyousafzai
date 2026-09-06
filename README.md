@@ -69,12 +69,13 @@ A modern agency website designed with a clean layout and responsive structure fo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&theme=tokyonight&title_color=1095d5" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight&title_color=1095d5" height="165" alt="Top Languages" />
+  <img align="top" src="https://github-readme-stats.shion.dev/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&theme=tokyonight&title_color=1095d5" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight&title_color=1095d5" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fareedulhaqyousafzai&theme=tokyonight&hide_border=true&ring=1095d5&fire=1095d5" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fareedulhaqyousafzai&theme=tokyonight&hide_border=true&ring=1095d5&fire=1095d5" alt="GitHub Streak" />
 </div>
 
 <div align="center">
