@@ -51,10 +51,10 @@ I build clean, modern, and responsive web experiences. Instead of generic templa
 
 ## 🚀 Featured Projects
 
-### 1. [Personal Portfolio Website](https://fareedulhaq-portfolio.vercel.app/)
+### 1. [Personal Portfolio Website](https://fareedulhaq.vercel.app/)
 A custom-built, fully responsive personal portfolio designed to showcase my front-end skills.
 * **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
-* **Live Link:** [Visit Website](https://fareedulhaq-portfolio.vercel.app/)
+* **Live Link:** [Visit Website](https://fareedulhaq.vercel.app/)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
