@@ -95,14 +95,7 @@
 ## 💖 Let's Build Something Great Together!
 
 <div align="center">
-
-<a href="https://github.com/fareedulhaqyousafzai?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/⭐_Check_Out_My_Repositories-1095d5?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-</a>
-
-<br><br>
-**Thanks for visiting my profile! 🚀**
-
+  <p><strong>Thanks for visiting my profile! 🚀</strong></p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1095d5,100:0A192F&height=100&section=footer" width="100%" />
