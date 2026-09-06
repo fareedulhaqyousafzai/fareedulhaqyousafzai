@@ -1,18 +1,18 @@
-<!-- Website Style Navigation Bar -->
+<!-- Beautiful Badge Navigation -->
 <div align="center">
-  <h3>
-    <a href="#-about-me" style="text-decoration: none; color: #00bfff;">Home / About</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-education" style="text-decoration: none; color: #00bfff;">Education</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-my-skills" style="text-decoration: none; color: #00bfff;">Skills</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-featured-projects" style="text-decoration: none; color: #00bfff;">Projects</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-contact-me" style="text-decoration: none; color: #00bfff;">Contact</a>
-  </h3>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/👤_About_Me-0A192F?style=for-the-badge&logoColor=white" alt="About"/></a>
+  <a href="#-education"><img src="https://img.shields.io/badge/🎓_Education-0A192F?style=for-the-badge&logoColor=white" alt="Education"/></a>
+  <a href="#-my-skills"><img src="https://img.shields.io/badge/🛠️_Skills-0A192F?style=for-the-badge&logoColor=white" alt="Skills"/></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀_Projects-0A192F?style=for-the-badge&logoColor=white" alt="Projects"/></a>
+  <a href="#-contact-me"><img src="https://img.shields.io/badge/🤝_Contact-0A192F?style=for-the-badge&logoColor=white" alt="Contact"/></a>
 </div>
 
-<!-- Website Hero Section (Dark Blue with Waves) -->
+<br>
+
+<!-- Fixed Dark Blue & Cyan Hero Banner -->
 <div align="center">
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f2027,203a43,2c5364&height=250&section=header&text=RESPONSIVE%20WEB%20EXPERIENCES!&fontSize=40&fontColor=ffffff&desc=Fareed%20Ul%20Haq%20|%20Front-End%20Developer&descSize=22&descColor=00bfff" width="100%" alt="Hero Section" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E3A8A&height=250&section=header&text=RESPONSIVE%20WEB%20EXPERIENCES!&fontSize=40&fontColor=ffffff&desc=Fareed%20Ul%20Haq%20|%20Front-End%20Developer&descSize=22&descColor=00bfff" width="100%" alt="Hero Section" />
   </a>
 </div>
 
@@ -56,10 +56,6 @@ A custom-built, fully responsive personal portfolio designed to showcase my fron
 * **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
 * **Live Link:** [Visit Website](https://fareedulhaq.vercel.app/)
 
-### 2. Responsive Agency Website
-A modern agency website designed with a clean layout and responsive structure for different screen sizes.
-* **Tech Stack:** HTML5, CSS3, Bootstrap
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
@@ -97,4 +93,4 @@ A modern agency website designed with a clean layout and responsive structure fo
 **Thanks for visiting! Let's build something great together. 🚀**
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c5364,203a43,0f2027&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0A192F&height=100&section=footer" width="100%" />
