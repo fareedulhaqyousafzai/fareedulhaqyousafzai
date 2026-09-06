@@ -11,7 +11,7 @@
 
 <!-- Fixed Dark Blue & Cyan Hero Banner -->
 <div align="center">
-  <a href="https://fareedulhaq-portfolio.vercel.app/" target="_blank">
+  <a href="https://fareedulhaq.vercel.app/" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E3A8A&height=250&section=header&text=RESPONSIVE%20WEB%20EXPERIENCES!&fontSize=40&fontColor=ffffff&desc=Fareed%20Ul%20Haq%20|%20Front-End%20Developer&descSize=22&descColor=00bfff" width="100%" alt="Hero Section" />
   </a>
 </div>
