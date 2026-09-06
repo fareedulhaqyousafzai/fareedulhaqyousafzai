@@ -25,19 +25,10 @@
 
 ## 🛠️ Languages and Tools
 
-### 🌐 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="40" alt="Frontend Stack" />
-</div>
-
-### ⚙️ Backend & Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,microsoftsqlserver" height="40" alt="Backend Stack" />
-</div>
-
-### 🔧 Version Control & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" height="40" alt="Tools" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,cs,dotnet,microsoftsqlserver" height="48" alt="Tech Stack" />
+  </a>
 </div>
 
 <div align="center">
