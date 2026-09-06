@@ -4,8 +4,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
 
-<p align="left">
-Front-End Developer focused on building clean, modern, responsive, and user-friendly web experiences.
+<p align="center">
+<b>Front-End Developer focused on building clean, modern, responsive, and user-friendly web experiences.</b>
 </p>
 
 <div align="center">
@@ -33,27 +33,9 @@ Front-End Developer focused on building clean, modern, responsive, and user-frie
 ## 🛠️ Languages and Tools
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo" />
-
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" height="48" alt="Tech Stack" />
+</a>
 </div>
 
 <div align="center">
@@ -68,7 +50,7 @@ A responsive personal portfolio website built to showcase my front-end developme
 
 **Technologies:** HTML5, CSS3, JavaScript, Bootstrap
 
-🔗 [Live Website](https://fareedulhaq.vercel.app/)
+🔗 [Live Website](https://fareedulhaq-portfolio.vercel.app/)
 
 ---
 
@@ -114,32 +96,39 @@ A modern agency website designed with a clean layout and responsive structure fo
 
 <div align="center">
 
-<a href="mailto:fareedulhaqyousafzai@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:fareedulhaqyousafzai@gmail.com" target="_blank">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Gmail" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://fareedulhaq-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<img src="https://cdn.simpleicons.org/vercel/000000" height="45" alt="Portfolio" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.upwork.com/freelancers/~01e547aaed402a1582" target="_blank">
-<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+<img src="https://cdn.simpleicons.org/upwork/14A800" height="45" alt="Upwork" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/fareedulhaqyousafzai/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="45" alt="LinkedIn" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/fareedulhaqyousafzai" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://cdn.simpleicons.org/github/181717" height="45" alt="GitHub" />
 </a>
 
 </div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
+</div>
+
 ## 🌟 Let's Build Something Great Together!
 
 <div align="center">
 
 **💻 Front-End Development | 🎨 Responsive UI | 🚀 Clean & Modern Web Experiences**
+
+<br>
 
 <a href="https://github.com/fareedulhaqyousafzai?tab=repositories" target="_blank">
 <img src="https://img.shields.io/badge/⭐_Check_Out_My_Repositories-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
