@@ -78,44 +78,10 @@ Front-End Developer • Responsive Web Design • Problem Solver
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=fareedulhaqyousafzai&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fareedulhaqyousafzai&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/fareedulhaqyousafzai/fareedulhaqyousafzai/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</p>
-
----
-
-# 📈 Profile Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fareedulhaqyousafzai&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fareedulhaqyousafzai&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fareedulhaqyousafzai&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fareedulhaqyousafzai&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fareedulhaqyousafzai&theme=tokyonight"/>
 </p>
 
 ---
