@@ -9,10 +9,10 @@
 
 <br>
 
-<!-- Fixed Dark Blue & Cyan Hero Banner -->
+<!-- Fixed Dark Blue Hero Banner with Primary Color (#1095d5) -->
 <div align="center">
-  <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E3A8A&height=250&section=header&text=RESPONSIVE%20WEB%20EXPERIENCES!&fontSize=40&fontColor=ffffff&desc=Fareed%20Ul%20Haq%20|%20Front-End%20Developer&descSize=22&descColor=00bfff" width="100%" alt="Hero Section" />
+  <a href="https://fareedulhaq-portfolio.vercel.app/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E3A8A&height=250&section=header&text=Fareed%20Ul%20Haq%20|%20Front-End%20Developer&fontSize=36&fontColor=ffffff&desc=RESPONSIVE%20WEB%20EXPERIENCES!&descSize=22&descColor=1095d5" width="100%" alt="Hero Section" />
   </a>
 </div>
 
@@ -51,10 +51,10 @@ I build clean, modern, and responsive web experiences. Instead of generic templa
 
 ## 🚀 Featured Projects
 
-### 1. [Personal Portfolio Website](https://fareedulhaq.vercel.app/)
+### 1. [Personal Portfolio Website](https://fareedulhaq-portfolio.vercel.app/)
 A custom-built, fully responsive personal portfolio designed to showcase my front-end skills.
 * **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
-* **Live Link:** [Visit Website](https://fareedulhaq.vercel.app/)
+* **Live Link:** [Visit Website](https://fareedulhaq-portfolio.vercel.app/)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
@@ -94,4 +94,4 @@ A custom-built, fully responsive personal portfolio designed to showcase my fron
 **Thanks for visiting! Let's build something great together. 🚀**
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0A192F&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1095d5,100:0A192F&height=100&section=footer" width="100%" />
