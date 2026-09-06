@@ -71,20 +71,20 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="mailto:fareedulhaqyousafzai@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-0A192F?style=for-the-badge" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fareedulhaqyousafzai/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.upwork.com/freelancers/~01e547aaed402a1582" target="_blank">
     <img src="https://img.shields.io/badge/UPWORK-14A800?style=for-the-badge" alt="Upwork" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/fareedulhaqyousafzai/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  <a href="mailto:fareedulhaqyousafzai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge" alt="Gmail" />
   </a>
 </div>
 
@@ -93,7 +93,7 @@
 </div>
 
 <div align="center">
-  <h3>Thanks for visiting my profile! 🚀</h3>
+  <h3>Thanks for visiting my profile!</h3>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1095d5,100:0A192F&height=100&section=footer" width="100%" />
