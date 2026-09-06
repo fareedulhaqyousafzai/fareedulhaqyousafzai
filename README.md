@@ -46,7 +46,7 @@
     <td width="45%" valign="center">
       <h3>🌐 Personal Portfolio</h3>
       <p>A custom-built, fully responsive portfolio website designed to showcase my front-end layout architecture and UI skills.</p>
-      <img src="https://skillicons.dev/icons?i=html,css,js" height="25" alt="Tech Stack"/><br><br>
+      <b>Technologies Used:</b> <img src="https://skillicons.dev/icons?i=html,css,js" height="20" align="middle" alt="Tech Stack"/><br><br>
       <a href="https://fareedulhaq.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/🔗_Live_Demo-0A192F?style=for-the-badge&labelColor=1095D5" alt="Live Demo" />
       </a>
