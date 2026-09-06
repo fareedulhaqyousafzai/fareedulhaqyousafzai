@@ -1,75 +1,70 @@
-<h1 align="center">Fareed Ul Haq</h1>
-
-<p align="center">
-  <strong>Front-End Developer</strong>
-  <br>
-  Building clean, responsive and modern web experiences.
-</p>
-
-<p align="center">
-  <a href="https://fareedulhaq.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-1095D5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01e547aaed402a1582">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-  </a>
-  <a href="https://www.linkedin.com/in/fareedulhaqyousafzai/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:fareedulhaqyousafzai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-## About
-
-I'm a Front-End Developer focused on turning designs and ideas into clean, responsive and user-friendly interfaces.
-
-My core stack is **HTML5, CSS3, JavaScript and Bootstrap**, with **Git and GitHub** for version control. I enjoy working on responsive layouts, UI development, landing pages and front-end problem solving.
-
----
-
-## Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1095D5,100:0A192F&height=230&section=header&text=Fareed%20Ul%20Haq&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20Developer&descSize=20&descColor=64FFDA&descAlignY=62&animation=fadeIn" width="100%" />
+
+<br>
+
+<a href="https://github.com/fareedulhaqyousafzai">
+  <img src="https://github.com/fareedulhaqyousafzai.png?size=160" width="140" alt="Fareed Ul Haq" />
+</a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Building+clean+%26+responsive+interfaces;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Bootstrap;Turning+ideas+into+interactive+experiences;Learning%2C+building%2C+improving." alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://fareedulhaq.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=64FFDA" />
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01e547aaed402a1582">
+<img src="https://img.shields.io/badge/Upwork-0A192F?style=for-the-badge&logo=upwork&logoColor=64FFDA" />
+</a>
+
+<a href="https://www.linkedin.com/in/fareedulhaqyousafzai/">
+<img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA" />
+</a>
+
+<a href="mailto:fareedulhaqyousafzai@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=fareedulhaqyousafzai&label=PROFILE%20VIEWS&color=1095D5&style=flat-square" />
 
 </div>
 
 ---
 
-## Featured Project
+## `01` — Hello, World.
 
-### Personal Portfolio
+```javascript
+const fareed = {
+  role: "Front-End Developer",
 
-<a href="https://fareedulhaq.vercel.app/">
-  <img src="Screenshot%202026-09-06%20141129.jpg" width="800" alt="Personal Portfolio Preview"/>
-</a>
+  building: [
+    "Responsive Websites",
+    "Modern UI",
+    "Interactive Experiences"
+  ],
 
-A responsive portfolio website built from scratch to showcase my projects, skills and front-end work.
+  stack: [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Bootstrap"
+  ],
 
-**Built with:**  
-`HTML5` `CSS3` `JavaScript` `Bootstrap`
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Vercel"
+  ],
 
-<br>
+  learning: "React.js",
 
-<a href="https://fareedulhaq.vercel.app/">
-  <img src="https://img.shields.io/badge/View_Live_Demo-1095D5?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
----
-
-## Currently Learning
-
-```text
-React.js
-Modern JavaScript
-Component-Based Development
-Better UI & Web Performance
+  philosophy: "Keep it clean. Keep it responsive."
+};
