@@ -9,10 +9,10 @@
 
 <br>
 
-<!-- Fixed Dark Blue Hero Banner with Primary Color (#1095d5) -->
+<!-- Custom Clean Banner with #1095d5 Color -->
 <div align="center">
-  <a href="https://fareedulhaq-portfolio.vercel.app/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1E3A8A&height=250&section=header&text=Fareed%20Ul%20Haq%20|%20Front-End%20Developer&fontSize=36&fontColor=ffffff&desc=RESPONSIVE%20WEB%20EXPERIENCES!&descSize=22&descColor=1095d5" width="100%" alt="Hero Section" />
+  <a href="https://fareedulhaq.vercel.app/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1095d5,100:0A192F&height=220&section=header&text=Fareed%20Ul%20Haq&fontSize=42&fontColor=ffffff&desc=Front-End%20Developer&descSize=24&descColor=1095d5" width="100%" alt="Hero Section" />
   </a>
 </div>
 
@@ -51,10 +51,10 @@ I build clean, modern, and responsive web experiences. Instead of generic templa
 
 ## 🚀 Featured Projects
 
-### 1. [Personal Portfolio Website](https://fareedulhaq-portfolio.vercel.app/)
+### 1. [Personal Portfolio Website](https://fareedulhaq.vercel.app/)
 A custom-built, fully responsive personal portfolio designed to showcase my front-end skills.
 * **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
-* **Live Link:** [Visit Website](https://fareedulhaq-portfolio.vercel.app/)
+* **Live Link:** [Visit Website](https://fareedulhaq.vercel.app/)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
@@ -78,7 +78,7 @@ A custom-built, fully responsive personal portfolio designed to showcase my fron
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;&nbsp;
-<a href="https://fareedulhaq-portfolio.vercel.app/" target="_blank">
+<a href="https://fareedulhaq.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
