@@ -17,7 +17,7 @@
   </a>
 
   <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1095D5&center=true&vCenter=true&width=650&lines=Front-End+Developer;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Bootstrap;Building+Pixel-Perfect%2C+Mobile-First+UIs;Open+for+Freelance+Work+on+Upwork" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?<img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Frameworks"/>font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1095D5&center=true&vCenter=true&width=650&lines=Front-End+Developer;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Bootstrap;Building+Pixel-Perfect%2C+Mobile-First+UIs;Open+for+Freelance+Work+on+Upwork" alt="Typing SVG"/>
   </a>
 
   <br/><br/>
@@ -169,7 +169,7 @@ A custom-built, fully responsive personal portfolio designed from scratch to sho
   <img src="https://raw.githubusercontent.com/fareedulhaqyousafzai/fareedulhaqyousafzai/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 </div>
 
-> ℹ️ Ye animated snake tab render hoga jab aap `snake.yml` workflow (neeche di gayi file) apni profile repo `fareedulhaqyousafzai/fareedulhaqyousafzai` mein `.github/workflows/` folder ke andar daal kar ek dafa run karwayenge — phir ye har din khud-ba-khud update hoti rahegi.
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
