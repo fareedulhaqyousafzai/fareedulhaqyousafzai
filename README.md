@@ -16,13 +16,22 @@ Front-End Developer • Responsive Web Design • Problem Solver
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:12px; margin-left: 20px;"/>
-
-- 💻 Detail-oriented **Front-End Developer**
-- 🌱 Currently expanding my skills in **C# & .NET Core**
-- 🚀 Passionate about building pixel-perfect, mobile-first web applications
-- 💼 Actively taking on freelance projects on **Upwork**
-- 🎓 Educated in **Computer Information Technology** (DAE) & **Software Engineering** (Adv. Diploma)
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li>💻 Detail-oriented <b>Front-End Developer</b></li>
+        <li>🌱 Currently expanding my skills in <b>C# & .NET Core</b></li>
+        <li>🚀 Passionate about building pixel-perfect, mobile-first web applications</li>
+        <li>💼 Actively taking on freelance projects on <b>Upwork</b></li>
+        <li>🎓 Educated in <b>Computer Information Technology</b> (DAE) & <b>Software Engineering</b> (Adv. Diploma)</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px; max-width: 320px;"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
