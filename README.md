@@ -50,18 +50,6 @@ A responsive personal portfolio website built to showcase my front-end developme
   <img src="Screenshot%202026-09-06%20141129.jpg" width="600" style="border-radius: 8px; margin-top: 10px; border: 1px solid #ddd;" alt="Portfolio Preview"/>
 </a>
 
----
-
-### 💻 Responsive Landing Page
-A clean and modern responsive landing page focused on user-friendly design and mobile responsiveness.
-* **Technologies:** HTML5, CSS3, JavaScript
-
----
-
-### 🏢 Responsive Agency Website
-A modern agency website designed with a clean layout and responsive structure for different screen sizes.
-* **Technologies:** HTML5, CSS3, Bootstrap
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
