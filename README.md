@@ -92,10 +92,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
 
-## 💖 Let's Build Something Great Together!
-
 <div align="center">
-  <p><strong>Thanks for visiting my profile! 🚀</strong></p>
+  <h3>Thanks for visiting my profile! 🚀</h3>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1095d5,100:0A192F&height=100&section=footer" width="100%" />
