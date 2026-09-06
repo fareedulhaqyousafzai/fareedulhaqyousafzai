@@ -55,8 +55,8 @@ Front-End Developer • Responsive Web Design • Problem Solver
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&bg_color=0A192F&title_color=1095D5&text_color=ffffff&icon_color=1095D5" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&bg_color=0A192F&title_color=1095D5&text_color=ffffff&icon_color=1095D5" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&bg_color=0A192F&title_color=1095D5&text_color=ffffff&icon_color=1095D5" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&bg_color=0A192F&title_color=1095D5&text_color=ffffff&icon_color=1095D5" />
 </p>
 
 ---
