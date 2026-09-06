@@ -1,68 +1,144 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1095d5,100:0A192F&height=220&section=header&text=Fareed%20Ul%20Haq&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%E2%80%A2%20Clean%20%26%20Responsive%20Web%20Experiences&descSize=18&descColor=1095d5&descAlignY=60" width="100%" alt="Header Banner"/>
+<h1 align="center">Hi 👋, I'm Fareed Ul Haq</h1>
 
-  <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=1095D5&center=true&vCenter=true&width=650&lines=Front-End+Developer;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Bootstrap;Building+Pixel-Perfect%2C+Mobile-First+UIs;Open+for+Freelance+Work+on+Upwork" alt="Typing SVG"/>
-  </a>
-  <br><br>
+<h3 align="center">
+Front-End Developer • Responsive Web Design • Problem Solver
+</h3>
 
-  <a href="https://fareedulhaq.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1095D5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.upwork.com/freelancers/~01e547aaed402a1582"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-  <a href="https://www.linkedin.com/in/fareedulhaqyousafzai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fareedulhaqyousafzai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=1095D5&center=true&vCenter=true&width=900&lines=Front-End+Web+Developer;HTML5+%7C+CSS3+%7C+JavaScript+%7C+Bootstrap;Building+Modern+Web+Experiences;Available+for+Freelance+on+Upwork" />
+</p>
 
-<br>
+---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>🧑‍💻 About Me</h2>
-      I'm a detail-oriented <b>Front-End Developer</b> who turns static designs into fully responsive, mobile-first web experiences. With a <b>DAE in Computer Information Technology</b> and an <b>Advanced Diploma in Software Engineering</b>, I write clean, maintainable, and accessible code.<br><br>
-      🎯 <b>Core Stack:</b> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Bootstrap</code><br>
-      🛠️ <b>Tools:</b> <code>Git</code> • <code>GitHub</code> • <code>VS Code</code> • <code>Vercel</code><br>
-      🧪 <b>Currently:</b> Taking on freelance projects — delivering pixel-perfect design-to-HTML conversions, fixing UI bugs, and building intuitive layouts.
-    </td>
-    <td width="40%" valign="top">
-      <h2>📚 Currently Learning</h2>
-      <blockquote>
-        ⚛️ React.js<br>
-        🧩 Advanced JavaScript (ES6+)<br>
-        🏗️ Component-Based Architecture<br>
-        ⚡ Web Performance Optimization
-      </blockquote>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:1095d5&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 💻 Detail-oriented **Front-End Developer**
+- 🌱 Currently expanding my skills in **React.js & Advanced JavaScript**
+- 🚀 Passionate about building pixel-perfect, mobile-first web applications
+- 💼 Actively taking on freelance projects on **Upwork**
+- 🎓 Educated in **Computer Information Technology** (DAE) & **Software Engineering** (Adv. Diploma)
 
 <br>
 
-<h2 align="center">🧰 Tech Stack</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</div>
+---
 
-<br>
+# 🌐 Connect With Me
 
-<h2 align="center">🚀 Featured Project: Personal Portfolio</h2>
-<div align="center">
-  <a href="https://fareedulhaq.vercel.app/">
-    <img src="Screenshot%202026-09-06%20141129.jpg" width="800" style="border-radius: 12px; margin-bottom: 15px; border: 1px solid #333;" alt="Personal Portfolio Preview" />
-  </a>
-  <p>A custom-built, fully responsive portfolio designed to showcase my front-end skills — from layout architecture and modern UI patterns to performance optimization.</p>
-  <b>Built with:</b> <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code> • <code>Bootstrap</code>
-  <br><br>
-  <a href="https://fareedulhaq.vercel.app/">
-    <img src="https://img.shields.io/badge/🔗_View_Live_Demo-1095D5?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
+<p align="center">
 
-<br>
+<a href="https://www.linkedin.com/in/fareedulhaqyousafzai/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fareedulhaqyousafzai&show_icons=true&hide_border=true&theme=tokyonight&title_color=1095d5&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&hide_border=true&theme=tokyonight&title_color=1095d5" height="165" alt="Top Languages"/>
-</div>
+<a href="https://www.upwork.com/freelancers/~01e547aaed402a1582">
+<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+<a href="mailto:fareedulhaqyousafzai@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://fareedulhaq.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Core Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### Version Control & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=fareedulhaqyousafzai&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=fareedulhaqyousafzai&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=fareedulhaqyousafzai&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fareedulhaqyousafzai&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/fareedulhaqyousafzai/fareedulhaqyousafzai/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</p>
+
+---
+
+# 📈 Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fareedulhaqyousafzai&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fareedulhaqyousafzai&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fareedulhaqyousafzai&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fareedulhaqyousafzai&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fareedulhaqyousafzai&theme=tokyonight"/>
+</p>
+
+---
+
+# ✍️ Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=fareedulhaqyousafzai&style=for-the-badge&color=1095d5"/>
+<img src="https://img.shields.io/github/followers/fareedulhaqyousafzai?style=for-the-badge&color=1095d5"/>
+<img src="https://img.shields.io/github/stars/fareedulhaqyousafzai?style=for-the-badge&color=1095d5"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1095d5,100:0A192F&height=120&section=footer"/>
+</p>
