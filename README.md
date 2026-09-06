@@ -39,25 +39,25 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-<h3 align="center">🌐 Personal Portfolio Website</h3>
-
-<p align="center">
-  A responsive personal portfolio website built to showcase my front-end development skills and projects.
-</p>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="35" alt="Tech Stack"/>
-  <br><br>
-  <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Live_Demo-0A192F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1095D5" alt="Live Demo" />
-  </a>
-  <br><br>
-  <a href="https://fareedulhaq.vercel.app/" target="_blank">
-    <img src="portfolio.png" width="700" style="border-radius: 12px; border: 2px solid #1095d5; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" alt="Portfolio Preview"/>
-  </a>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="45%" valign="center">
+      <h3>🌐 Personal Portfolio</h3>
+      <p>A custom-built, fully responsive portfolio website designed to showcase my front-end layout architecture and UI skills.</p>
+      <img src="https://skillicons.dev/icons?i=html,css,js" height="25" alt="Tech Stack"/><br><br>
+      <a href="https://fareedulhaq.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_Live_Demo-0A192F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1095D5" alt="Live Demo" />
+      </a>
+    </td>
+    <td width="55%" align="center" valign="center">
+      <a href="https://fareedulhaq.vercel.app/" target="_blank">
+        <img src="Screenshot%202026-09-06%20141129.jpg" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="Portfolio Preview"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line" width="100%" />
