@@ -19,7 +19,7 @@ Front-End Developer • Responsive Web Design • Problem Solver
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 💻 Detail-oriented **Front-End Developer**
-- 🌱 Currently expanding my skills in **React.js & Advanced JavaScript**
+- 🌱 Currently expanding my skills in **C# & .NET Core**
 - 🚀 Passionate about building pixel-perfect, mobile-first web applications
 - 💼 Actively taking on freelance projects on **Upwork**
 - 🎓 Educated in **Computer Information Technology** (DAE) & **Software Engineering** (Adv. Diploma)
@@ -54,22 +54,8 @@ Front-End Developer • Responsive Web Design • Problem Solver
 
 # 💻 Tech Stack
 
-### Core Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
-### Version Control & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
 </p>
 
 ---
