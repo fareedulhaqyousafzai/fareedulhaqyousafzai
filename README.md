@@ -48,12 +48,12 @@
       <p>A custom-built, fully responsive portfolio website designed to showcase my front-end layout architecture and UI skills.</p>
       <img src="https://skillicons.dev/icons?i=html,css,js" height="25" alt="Tech Stack"/><br><br>
       <a href="https://fareedulhaq.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🔗_Live_Demo-0A192F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1095D5" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/🔗_Live_Demo-0A192F?style=for-the-badge&labelColor=1095D5" alt="Live Demo" />
       </a>
     </td>
     <td width="55%" align="center" valign="center">
       <a href="https://fareedulhaq.vercel.app/" target="_blank">
-        <img src="Screenshot%202026-09-06%20141129.jpg" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="Portfolio Preview"/>
+        <img src="portfolio.png" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" alt="Portfolio Preview"/>
       </a>
     </td>
   </tr>
