@@ -94,12 +94,13 @@ Clean code, fast load times, real responsiveness
 **Languages & Markup**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js" height="60" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Frameworks"/>
 
 <br/><br/>
 
 **Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Frameworks"/>
+
 
 <br/><br/>
 
