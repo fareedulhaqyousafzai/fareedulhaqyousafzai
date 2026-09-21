@@ -14,7 +14,7 @@
 
 - 💻 **Role:** Detail-oriented Front-End Developer
 - 🎨 **Focus:** Modern UI, Mobile-First Design & Responsive Web Apps
-- 🚀 **Tech Stack:** HTML5, CSS3, JavaScript, & Bootstrap
+- 🚀 **Tech Stack:** HTML5, CSS3, JavaScript, JQuery & Bootstrap
 - 💼 **Freelance:** Actively delivering premium projects on Upwork
 - ⚡ **Design Preference:** Clean, Minimalist & Distraction-Free Interfaces
 
@@ -25,7 +25,7 @@
 ## 🛠️ Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" height="48" alt="Tech Stack" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git,github" height="48" alt="Tech Stack" style="pointer-events: none;" />
 </div>
 
 <div align="center">
